@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Studio",
+  "description": "AI-powered portfolio website generator and studio. Analyze your CV or resume to create a stunning, responsive, and customizable portfolio with multiple themes, live editing, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
