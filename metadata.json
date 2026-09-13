@@ -1,0 +1,6 @@
+{
+  "name": "CGPAMatrix",
+  "description": "CGPAMatrix: Intelligent Predictive CGPA Simulator & Target Degree Planner solving the Reverse Target Deficit problem. Engineered by Otitologbon Oluwabunmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
